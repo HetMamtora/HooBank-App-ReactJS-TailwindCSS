@@ -1,7 +1,7 @@
 import React from 'react';
 import { useState } from 'react';
 import { close, logo, menu } from '../assets';
-import { navLinks } from '../constants';
+import { navLinks } from "../constants";
 
 const Navbar = () => {
   return (
@@ -14,9 +14,7 @@ const Navbar = () => {
             key={nav.id}
             className={`font-poppins font-normal cursor-pointer text-[16px] text-white`}
           >
-            <a href={`#${nav.id}`}>
-              {nav.title}
-            </a>
+            <a href={`#${nav.id}`}>{nav.title}</a>
           </li>
         ))}
       </ul>
