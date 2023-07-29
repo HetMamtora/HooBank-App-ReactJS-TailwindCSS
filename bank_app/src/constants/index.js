@@ -93,8 +93,8 @@ export const footerLinks = [
     title: "Useful Links",
     links: [
       {
-        name: "Content",
-        link: "https://www.hoobank.com/content/",
+        name: "GitHub Repo",
+        link: "https://github.com/HetMamtora/HooBank-App-ReactJS-TailwindCSS",
       },
       {
         name: "How it Works",
@@ -158,22 +158,22 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://github.com/HetMamtora/HooBank-App-ReactJS-TailwindCSS",
   },
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/",
+    link: "https://github.com/HetMamtora/HooBank-App-ReactJS-TailwindCSS",
   },
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.twitter.com/",
+    link: "https://github.com/HetMamtora/HooBank-App-ReactJS-TailwindCSS",
   },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/in/het-mamtora/",
   },
 ];
 
